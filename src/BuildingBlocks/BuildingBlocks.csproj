@@ -88,7 +88,7 @@
         <PackageReference Include="DotNetCore.CAP.OpenTelemetry" Version="8.2.0" />
         <PackageReference Include="DotNetCore.CAP.RabbitMQ" Version="8.2.0" />
         <PackageReference Include="DotNetCore.CAP.SqlServer" Version="8.2.0" />
-        <PackageReference Include="Duende.IdentityServer" Version="7.0.5" />
+        <PackageReference Include="Duende.IdentityServer" Version="7.0.6" />
         <PackageReference Include="Duende.IdentityServer.AspNetIdentity" Version="7.0.5" />
         <PackageReference Include="Duende.IdentityServer.EntityFramework" Version="7.0.5" />
         <PackageReference Include="Duende.IdentityServer.EntityFramework.Storage" Version="7.0.5" />
